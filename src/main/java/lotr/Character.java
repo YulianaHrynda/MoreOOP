@@ -20,4 +20,3 @@ public abstract class Character {
         this.hp = Math.max(hp, 0);
     }
 }
-
